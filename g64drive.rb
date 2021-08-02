@@ -15,9 +15,7 @@ class G64drive < Formula
   depends_on "go" => :build
 
   def install
-    cd "g64drive" do
-      system "go", "build", *std_go_args
-    end
+    system "go", "build", *std_go_args
   end
 
   test do
