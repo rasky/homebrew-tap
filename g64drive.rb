@@ -1,8 +1,8 @@
 class G64drive < Formula
   desc "A tool for operating 64drive by Retroactive"
   homepage "https://github.com/rasky/g64drive"
-  url "https://github.com/rasky/g64drive/archive/refs/tags/v0.3.1.tar.gz"
-  sha256 "4cac4075ebe44d5a620ce57d52f039e650e33bdb490f4148d255445409d8fdf4"
+  url "https://github.com/rasky/g64drive/archive/refs/tags/v0.3.2.tar.gz"
+  sha256 "5a3333587f090e7b5cbccbe8efccf3fb585aeefe5692e80a76269fc718495534"
   license "MIT"
 
   livecheck do
